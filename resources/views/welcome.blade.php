@@ -37,6 +37,10 @@
                 height: 200px;
                 width: 300px;
             }
+            .img3{
+                height: 200px;
+                width: 4s00px;
+            }
         </style>
     </head>
     <body class="antialiased">
@@ -45,7 +49,10 @@
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <div>
-                          <h1><FONT FACE="impact" SIZE=6 COLOR="while">CITY TOURS</FONT></h1>
+                          <h1><FONT FACE="impact" SIZE=6 COLOR="while">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-airplane-fill" viewBox="0 0 16 16">
+                                      <path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849Z"/>
+                            </svg>CITY TOURS</FONT></h1>
                     </div>
                 </div>
 
@@ -102,11 +109,21 @@
                 </p>
                 <p>
                 <div class="card3" style="width: 18rem;">
-                    <img src="https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/08/29/000528602W.jpg" class="img2" alt="...">
+                    <img src="https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/08/29/000528602W.jpg" class="img3" alt="...">
                     <div class="card-body">
-                       <p class="card-text">Es una tierra entre negruzca y rojiza que se torna violácea al anochecer. Un semicírculo de cerros en la lejanía conforman un gigantesco anfiteatro natural abierto hacia el poniente. En esta región miles de líneas se extienden por 520 km², y algunas incluso se prolongan hasta un área de 800 km².
-                         Región: América Latina y el Caribe
-                         Inscripción: 1994 (XVIII sesión).</p>
+                       <p class="card-text">Se trata de la montaña de los Siete Colores, también conocida como Vinicunca o Arcoíris. El monte se encuentra en la Cordillera del Vilcanota a 5.200 metros sobre el nivel del mar, en el distrito de Pitumarca.
+                         Sus laderas y cumbres están teñidas por unas franjas de intensos tonos de fucsia, turquesa, lavanda y dorado.
+                      </p>
+                    </div>
+                </div>
+                </p>
+                <p>
+                <div class="card3" style="width: 18rem;">
+                    <img src="https://as2.ftcdn.net/v2/jpg/02/16/67/85/1000_F_216678598_maCXVAWA3fPssw5EqfP1ewKgb3QkszGV.jpg" class="img3" alt="...">
+                    <div class="card-body">
+                       <p class="card-text">Es un estratovolcán conformado por la acumulación sucesiva de flujos de lava y secuencias piroclásticas. En los últimos 50 000 años, el Misti ha registrado al menos 12 erupciones volcánicas,
+                         cuyos productos expulsados se han depositado en gran parte en el área que hoy ocupa la ciudad de Arequipa.
+                      </p>
                     </div>
                 </div>
                 </p>

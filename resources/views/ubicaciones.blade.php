@@ -21,6 +21,9 @@
         .parrafos{
             display: flex;
         }
+        .parrafo2{
+            display: flex;
+        }
     </style>
 </head>
 <body>
@@ -37,11 +40,11 @@
    <p>
     <div class="card" style="width: 18rem;">
        <div class="card-body">
-        <h5 class="card-title">Card title 
+        <h5 class="card-title">Machu Picchu
          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
           </svg></h5>
-        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6> 
+        <h6 class="card-subtitle mb-2 text-muted">puedes ver su ubicaciones</h6> 
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <a href="https://www.google.com/maps/place/Machu+Picchu/@-13.1628665,-72.5465275,14.97z/data=!4m5!3m4!1s0x0:0x3a10370ea4a01a27!8m2!3d-13.1631412!4d-72.5449629" class="card-link">Aqui Machu Picchu</a>
      </div>
@@ -50,7 +53,7 @@
    <p>
    <div class="card" style="width: 18rem;">
        <div class="card-body">
-        <h5 class="card-title">Card title 
+        <h5 class="card-title">lago  tita caca 
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
@@ -63,13 +66,54 @@
    <p>
    <div class="card" style="width: 18rem;">
        <div class="card-body">
-        <h5 class="card-title">Card title 
+        <h5 class="card-title">HUASCARAN
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
-        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+        <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="https://www.google.com/maps/place/Huascar%C3%A1n/@-9.1176707,-77.6058103,12.67z/data=!4m13!1m7!3m6!1s0x91a94787b67d944d:0x92e763d30fd90096!2sHuascar%C3%A1n!3b1!8m2!3d-9.1223815!4d-77.6063478!3m4!1s0x91a94787b67d944d:0x92e763d30fd90096!8m2!3d-9.1223815!4d-77.6063478" class="card-link">Aqui HUASCARAN</a>
+        <a href="https://www.google.com/maps/place/Huascar%C3%A1n/@-9.1223371,-77.643257,14z/data=!4m13!1m7!3m6!1s0x91a94787b67d944d:0x92e763d30fd90096!2sHuascar%C3%A1n!3b1!8m2!3d-9.1223815!4d-77.6063478!3m4!1s0x91a94787b67d944d:0x92e763d30fd90096!8m2!3d-9.1223815!4d-77.6063478?hl=es-419" class="card-link">Aqui HUASCARAN</a>
+     </div>
+   </div>
+   </p>
+   <p>
+   <div class="card" style="width: 18rem;">
+       <div class="card-body">
+        <h5 class="card-title">Amazonas
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+               <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+            </svg></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="https://www.google.com/maps/place/Amazonas/@-1.5933834,-72.3625506,5z/data=!3m1!4b1!4m5!3m4!1s0x926eca1645365b6b:0xabfc431d20b2b474!8m2!3d-3.2996216!4d-60.6646509?hl=es-419" class="card-link">Aqui Amazonas</a>
+     </div>
+   </div>
+   </p>
+   </div>
+   <div class="parrafo2">
+    <p>
+   <div class="card" style="width: 18rem;">
+       <div class="card-body">
+        <h5 class="card-title">Montaña de 7 colores
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+               <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+            </svg></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="https://www.google.com/maps/place/Tour+Monta%C3%B1a+7+Colores/@-13.525171,-72.0112983,14z/data=!4m9!1m2!2m1!1smonta%C3%B1a+7+colores+!3m5!1s0x916dd5ab3a608719:0x85fd3470273174f1!8m2!3d-13.5251719!4d-71.9742234!15sChJtb250YcOxYSA3IGNvbG9yZXNaFCISbW9udGHDsWEgNyBjb2xvcmVzkgENdHJhdmVsX2FnZW5jeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNdE9YUkljVVozRUFF4AEA?hl=es-419" class="card-link">Aqui Montaña 7 colores</a>
+     </div>
+   </div>
+   </p>
+   <p>
+   <div class="card" style="width: 18rem;">
+       <div class="card-body">
+        <h5 class="card-title">Lineas de nazca
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+               <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+            </svg></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="https://www.google.com/maps/place/L%C3%ADneas+de+Nazca/@-14.7390151,-75.1327355,16.86z/data=!4m5!3m4!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005?hl=es-419" class="card-link">Aqui lineas de nazca</a>
      </div>
    </div>
    </p>
