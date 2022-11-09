@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>CITY TOURS WEB</title>
         
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -20,6 +20,14 @@
             h1{
                
                 color:green;
+            }
+            img{
+                height: 400px;
+                width: 600px;
+                display: flex;
+            }
+            .card-text{
+                color: blue;
             }
         </style>
     </head>
@@ -62,19 +70,27 @@
                         </div>
                     </div>
                 </div>
+                <p>
                 <div class="card" style="width: 18rem;">
                     <img src="https://historiaperuana.pe/wp-content/uploads/rio-amazonas.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                       <p class="card-text">Amazonas es uno de los veinticuatro departamentos que, junto a la Provincia Constitucional del Callao, forman la República del Perú. Su capital es Chachapoyas y su ciudad más poblada es Bagua Grande.
+                            Entidad: Departamento del Perú
+                            Capital: Chachapoyas
+                            Fundación Ley: 21 de noviembre de 1832.</p>
                     </div>
                 </div>
+                </p>
+                <p>
                 <div class="card" style="width: 18rem;">
                     <img src="http://www.wamanadventures.com/blog/wp-content/uploads/2020/06/mapa-2-nazca.gif" class="card-img-top" alt="...">
                     <div class="card-body">
-                       <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                       <p class="card-text">Es una tierra entre negruzca y rojiza que se torna violácea al anochecer. Un semicírculo de cerros en la lejanía conforman un gigantesco anfiteatro natural abierto hacia el poniente. En esta región miles de líneas se extienden por 520 km², y algunas incluso se prolongan hasta un área de 800 km².
+                         Región: América Latina y el Caribe
+                         Inscripción: 1994 (XVIII sesión).</p>
                     </div>
                 </div>
-                
+                </p>
                 <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
