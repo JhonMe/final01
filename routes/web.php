@@ -27,3 +27,6 @@ Route::get('/ubicaciones', function () {
 Route::get('/boleto', function () {
     return view('boleto');
 });
+Route::get('/estandar', function () {
+    return view('estandar');
+});
