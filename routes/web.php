@@ -24,3 +24,6 @@ Route::get('/fotos', function () {
 Route::get('/ubicaciones', function () {
     return view('ubicaciones');
 });
+Route::get('/boleto', function () {
+    return view('boleto');
+});

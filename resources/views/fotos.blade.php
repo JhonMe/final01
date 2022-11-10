@@ -22,7 +22,6 @@
         }
         h1{
             color: blue;
-            background: black;
             
         }
         p{
