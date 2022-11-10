@@ -42,6 +42,24 @@
                 height: 200px;
                 width: 4s00px;
             }
+            .sub{
+                color: blue;
+            }
+            .card2{
+                color: red;
+            }
+            .card3{
+                color: navajowhite;
+            }
+            .card4{
+                color: goldenrod;
+            }
+            .card1{
+                color: green;
+            }
+            
+
+
         </style>
     </head>
     <body class="antialiased">
@@ -55,6 +73,7 @@
                                       <path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849Z"/>
                             </svg>CITY TOURS</FONT>
                          </h1>
+                         <h5 class="sub">La seguridad de nuestra gente es primero</h5>
                     </div>
                 </div>
 
@@ -75,7 +94,7 @@
                         </div>
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
                             <div class="flex items-center">
-                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-bag-heart-fill" viewBox="0 0 16 16">
                                <path d="M11.5 4v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5ZM8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1Zm0 6.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132Z"/>
                            </svg>
                                 <div class="ml-4 text-lg leading-7 font-semibold"><a href="http://127.0.0.1:8000/boleto" class="underline text-gray-900 dark:text-white">Comprar boleto</a></div>
@@ -105,8 +124,8 @@
                 <p>
                 <div class="card1" style="width: 18rem;">
                     <img src="https://historiaperuana.pe/wp-content/uploads/rio-amazonas.jpg" class="img1" alt="...">
-                    <div class="card-body">
-                       <p class="card-text">Amazonas es uno de los veinticuatro departamentos que, junto a la Provincia Constitucional del Callao, forman la República del Perú. Su capital es Chachapoyas y su ciudad más poblada es Bagua Grande.
+                    <div class="card-body"> <h4>Amazonas</h4>
+                       <p class="card-text1">Amazonas es uno de los veinticuatro departamentos que, junto a la Provincia Constitucional del Callao, forman la República del Perú. Su capital es Chachapoyas y su ciudad más poblada es Bagua Grande.
                             Entidad: Departamento del Perú
                             Capital: Chachapoyas
                             Fundación Ley: 21 de noviembre de 1832.</p>
@@ -116,8 +135,8 @@
                 <p>
                 <div class="card2" style="width: 18rem;">
                     <img src="http://www.wamanadventures.com/blog/wp-content/uploads/2020/06/mapa-2-nazca.gif" class="img2" alt="...">
-                    <div class="card-body">
-                       <p class="card-text">Es una tierra entre negruzca y rojiza que se torna violácea al anochecer. Un semicírculo de cerros en la lejanía conforman un gigantesco anfiteatro natural abierto hacia el poniente. En esta región miles de líneas se extienden por 520 km², y algunas incluso se prolongan hasta un área de 800 km².
+                    <div class="card-body"> <h4>Lineas de Nazca</h4>
+                       <p class="card-text2">Es una tierra entre negruzca y rojiza que se torna violácea al anochecer. Un semicírculo de cerros en la lejanía conforman un gigantesco anfiteatro natural abierto hacia el poniente. En esta región miles de líneas se extienden por 520 km², y algunas incluso se prolongan hasta un área de 800 km².
                          Región: América Latina y el Caribe
                          Inscripción: 1994 (XVIII sesión).</p>
                     </div>
@@ -126,18 +145,18 @@
                 <p>
                 <div class="card3" style="width: 18rem;">
                     <img src="https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/08/29/000528602W.jpg" class="img3" alt="...">
-                    <div class="card-body">
-                       <p class="card-text">Se trata de la montaña de los Siete Colores, también conocida como Vinicunca o Arcoíris. El monte se encuentra en la Cordillera del Vilcanota a 5.200 metros sobre el nivel del mar, en el distrito de Pitumarca.
+                    <div class="card-body"><h4>Montaña de 7 colores</h4>
+                       <p class="card-text3">Se trata de la montaña de los Siete Colores, también conocida como Vinicunca o Arcoíris. El monte se encuentra en la Cordillera del Vilcanota a 5.200 metros sobre el nivel del mar, en el distrito de Pitumarca.
                          Sus laderas y cumbres están teñidas por unas franjas de intensos tonos de fucsia, turquesa, lavanda y dorado.
                       </p>
                     </div>
                 </div>
                 </p>
                 <p>
-                <div class="card3" style="width: 18rem;">
+                <div class="card4" style="width: 18rem;">
                     <img src="https://as2.ftcdn.net/v2/jpg/02/16/67/85/1000_F_216678598_maCXVAWA3fPssw5EqfP1ewKgb3QkszGV.jpg" class="img3" alt="...">
-                    <div class="card-body">
-                       <p class="card-text">Es un estratovolcán conformado por la acumulación sucesiva de flujos de lava y secuencias piroclásticas. En los últimos 50 000 años, el Misti ha registrado al menos 12 erupciones volcánicas,
+                    <div class="card-body"><h4>Volcan Misti</h4>
+                       <p class="card-text4">Es un estratovolcán conformado por la acumulación sucesiva de flujos de lava y secuencias piroclásticas. En los últimos 50 000 años, el Misti ha registrado al menos 12 erupciones volcánicas,
                          cuyos productos expulsados se han depositado en gran parte en el área que hoy ocupa la ciudad de Arequipa.
                       </p>
                     </div>
@@ -147,7 +166,7 @@
                   <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
 
                       <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Gracias por visitarnos.
+                        Gracias por visitarnos (: .
                       </div>
                  </div>
             </div>
