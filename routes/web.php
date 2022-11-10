@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('Principal');
 });
 
 Route::get('/fotos', function () {
@@ -29,4 +29,7 @@ Route::get('/boleto', function () {
 });
 Route::get('/estandar', function () {
     return view('estandar');
+});
+Route::get('/premiun', function () {
+    return view('premiun');
 });
