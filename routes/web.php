@@ -33,3 +33,6 @@ Route::get('/estandar', function () {
 Route::get('/premiun', function () {
     return view('premiun');
 });
+Route::get('/vip', function () {
+    return view('vip');
+});

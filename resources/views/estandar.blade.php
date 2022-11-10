@@ -17,6 +17,10 @@
         .titulo{
             color: goldenrod;
         }
+        .img1{
+            height: 300px;
+            width: 500px;
+        }
     </style>
 </head>
 <body>
@@ -45,7 +49,7 @@
    </div>
    <center>
      <div>
-         <img src="https://www.extra.com.pe/wp-content/uploads/2021/05/corredor-amarillo.jpg" class="img-fluid" alt="...">
+         <img class="img1" src="https://assets.stickpng.com/images/580b585b2edbce24c47b2bf6.png" class="img-fluid" alt="...">
      </div>
    </center>
 </form>

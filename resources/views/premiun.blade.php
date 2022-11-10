@@ -15,11 +15,26 @@
         h1{
             color: blue;
         }
+        h5{
+            color: green;
+        }
+        .titulo{
+            color: red;
+        }
+        .img1{
+            height: 300px;
+            width: 500px;
+        }
     </style>
 </head>
 <body>
    <center><h1>Bienvenido al sitio premium</h1></center>
     <div>
+    <div>
+    <a href="http://127.0.0.1:8000/boleto">
+      <button type="button" class="btn btn-warning">Regresar</button>
+    </a>
+   </div>
   <fieldset disabled>
   <center><legend class="titulo">Rellenar los datos correspondientes</legend>
     <h5>Ingrese su nombre y apellido</h5>
@@ -36,14 +51,9 @@
      <option value="Chicago">
      </datalist>
    </center>
-   <div>
-    <a href="http://127.0.0.1:8000/boleto">
-      <button type="button" class="btn btn-primary">Regresar</button>
-    </a>
-   </div>
    <center>
      <div>
-         <img src="https://www.blog.recorrido.pe/wp-content/uploads/2019/09/turismo-raraz.jpg" class="img-fluid" alt="...">
+         <img class="img1" src="https://www.pngplay.com/wp-content/uploads/7/Blue-Bus-PNG-Clipart-Background.png" class="img-fluid" alt="...">
      </div>
    </center>
 </body>
