@@ -44,14 +44,13 @@
     <h5>Ingrese una contraseña</h5>
     <input class="form-sm form-control-sm" type="text">
     <h5>Ingrese el lugar donde viajara</h5>
-    <input class="form-sm form-control-sm" type="text">
-    <datalist id="datalistOptions">
-     <option value="San Francisco">
-     <option value="New York">
-     <option value="Seattle">
-     <option value="Los Angeles">
-     <option value="Chicago">
-     </datalist>
+    <div>
+      <select class="form-sm form-control-sm">
+        <option>Disabled select</option>
+        <option>Disabled select</option>
+        <option>Disabled select</option>
+      </select>
+    </div>
    </center>
    <center>
      <div>

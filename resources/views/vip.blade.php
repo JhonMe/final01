@@ -21,15 +21,19 @@
         h5{
           color: royalblue;
         }
+        .boton{
+          display: flex;
+        }
     </style>
 </head>
 <body>
 <center><h1>Bienvenido al sitio VIP</h1></center>
     <div>
-    <div>
-    <a href="http://127.0.0.1:8000/boleto">
-      <button type="button" class="btn btn-warning">Regresar</button>
-    </a>
+    <div class="boton">
+        <a href="http://127.0.0.1:8000/boleto">
+              <button type="button" class="btn btn-warning">Regresar</button>
+        </a>
+              <button type="button" class="btn btn-secondary">Secondary</button>
    </div>
   <fieldset disabled>
   <center><legend class="titulo">Rellenar los datos correspondientes</legend>
@@ -40,15 +44,15 @@
     <h5>Ingrese una contraseña</h5>
     <input class="form-sm form-control-sm" type="text">
     <h5>Ingrese el lugar donde viajara</h5>
-    <input class="form-sm form-control-sm" type="text">
-    <datalist id="datalistOptions">
-     <option value="San Francisco">
-     <option value="New York">
-     <option value="Seattle">
-     <option value="Los Angeles">
-     <option value="Chicago">
-     </datalist>
+    <div>
+      <select class="form-sm form-control-sm">
+        <option>Disabled select</option>
+        <option>Disabled select</option>
+        <option>Disabled select</option>
+      </select>
+    </div>
    </center>
+   
    <center>
      <div>
          <img src="http://rapidovip.com.pe/images/busgrande.png" class="img-fluid" alt="...">
