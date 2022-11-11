@@ -39,6 +39,8 @@
   <center><legend class="titulo">Rellenar los datos correspondientes</legend>
     <h5>Ingrese su nombre y apellido</h5>
     <input class="form-sm form-control-sm" type="text">
+    <h5>Ingrese su numero DNI</h5>
+    <input class="form-sm form-control-sm" type="text">
     <h5>Ingrese una contraseña</h5>
     <input class="form-sm form-control-sm" type="text">
     <h5>Ingrese el lugar donde viajara</h5>

@@ -12,6 +12,15 @@
             background-attachment: fixed;
             background-size: cover;
         }
+        h1{
+          color: goldenrod;
+        }
+        .titulo{
+          color: greenyellow;
+        }
+        h5{
+          color: royalblue;
+        }
     </style>
 </head>
 <body>
@@ -25,6 +34,8 @@
   <fieldset disabled>
   <center><legend class="titulo">Rellenar los datos correspondientes</legend>
     <h5>Ingrese su nombre y apellido</h5>
+    <input class="form-sm form-control-sm" type="text">
+    <h5>Ingrese su numero DNI</h5>
     <input class="form-sm form-control-sm" type="text">
     <h5>Ingrese una contraseña</h5>
     <input class="form-sm form-control-sm" type="text">
