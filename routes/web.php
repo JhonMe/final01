@@ -36,3 +36,7 @@ Route::get('/premiun', function () {
 Route::get('/vip', function () {
     return view('vip');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
