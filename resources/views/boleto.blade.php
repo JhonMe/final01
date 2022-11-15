@@ -38,6 +38,12 @@
       .vip{
         background: red;
       }
+      p{
+        color: seagreen;
+        font-size: medium;
+        font-family: Georgia;
+        
+      }
    </style>
 </head>
 <body>
@@ -49,8 +55,7 @@
     <div class="col">
       <h4 class="est">Estandar</h4>
       <img class="img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPsDlyTN7TJTGqjpkkTk-tgk_aVGu8LpZvg&usqp=CAU" alt="">
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque ea impedit exercitationem delectus asperiores illum eveniet eaque, adipisci suscipit pariatur.
-         Pariatur voluptatibus, maxime nulla minus quos iure deserunt esse aut.
+      <p>Este te tiene un lugar comodo dende podras viajar de mane comoda .
       </p>
       <a href="http://127.0.0.1:8000/estandar">
       <button type="button" class="btn btn-primary">Comprar
@@ -64,8 +69,7 @@
     <div class="col">
     <h4 class="pre">Premium</h4>
      <img class="img2" src="https://www.peruhop.com/wp-content/uploads/image_make_different_1.jpg" alt="">
-      <p>   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima nihil repudiandae iusto consectetur tempore quibusdam aperiam,
-         dolorum earum atque provident quisquam magni nesciunt quo tempora rem, ullam veniam doloribus blanditiis?
+      <p> este servicio te dara una comodida mas confortable y podras dsifrutar de viaje de una manera segura.
       </p>
       <a href="http://127.0.0.1:8000/premiun">
       <button type="button" class="btn btn-success">Comprar
@@ -79,9 +83,8 @@
     <div class="col">
       <h4 class="vip">VIP</h4>
       <img class="img3" src="https://www.blog.recorrido.pe/wp-content/uploads/2020/04/zbuss-peru-conexi%C3%B3n-empresa.jpg" alt="">
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, quidem ipsa similique ipsum quibusdam unde eligendi iste ut et
-         distinctio fugit culpa expedita sunt? Tempore itaque distinctio vitae necessitatibus dolorum.
+      <p>Este servicio tiene los mejores terramosas que tre aternderan las horas que viajes tendra doas pisos tiene califaxiones
+        y tiene los mejores asientos donde podras sentite como@.
       </p>
       <a href="http://127.0.0.1:8000/vip">
       <button type="button" class="btn btn-warning">Comprar
