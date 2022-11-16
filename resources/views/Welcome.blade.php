@@ -46,16 +46,24 @@
                 color: blue;
             }
             .card2{
-                color: red;
+                color: navajowhite;
+                font-family: Georgia;
+                font-style: oblique;
             }
             .card3{
-                color: navajowhite;
+                color: red ;
+                font-family: Georgia;
+                font-style: oblique;
             }
             .card4{
                 color: goldenrod;
+                font-family: Georgia;
+                font-style: oblique;
             }
             .card1{
                 color: green;
+                font-family: Georgia;
+                font-style: oblique;
             }
           .letraR{
             color: green;

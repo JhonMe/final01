@@ -39,7 +39,7 @@
         background: red;
       }
       p{
-        color: seagreen;
+        color: red;
         font-size: medium;
         font-family: Georgia;
         

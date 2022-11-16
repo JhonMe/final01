@@ -45,7 +45,16 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
           </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">puedes ver su ubicaciones</h6> 
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Dirección: 08680
+                           Horas: Abierto ahora.
+          Agrega el horario completo
+           Teléfono: (084) 582030
+           Elevación: 2,430 m
+           Superficie: 325.9 km²
+           País: Perú
+           Región: América Latina y el Caribe
+           Tipo: Mixto
+           Gestión: Gobierno del Perú.</p>
         <a href="https://www.google.com/maps/place/Machu+Picchu/@-13.1628665,-72.5465275,14.97z/data=!4m5!3m4!1s0x0:0x3a10370ea4a01a27!8m2!3d-13.1631412!4d-72.5449629" class="card-link">Aqui Machu Picchu</a>
      </div>
    </div>
@@ -58,7 +67,14 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Ubicación geográfica
+              Continente	América del Sur
+              Cordillera	Cordillera de los Andes
+               Región	Altiplano andino
+              Ecorregión	Región Puna
+             Área protegida	Sitio Ramsar
+             Cuenca	Sistema endorreico Titicaca-Desaguadero-Poopó-Salar de Coipasa
+              Coordenadas	15°49′30″S 69°19′30″O.</p>
         <a href="https://www.google.com/maps/place/Titicaca/@-15.9134984,-69.9612097,9z/data=!3m1!4b1!4m5!3m4!1s0x915d9b22f6af7c75:0xf682724d4df71dc!8m2!3d-15.9254!4d-69.3354" class="card-link">Aqui lago Titicaca</a>
      </div>
    </div>
@@ -71,7 +87,11 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Región	Cordillera de Los Andes
+          Área protegida	Parque nacional Huascarán
+          Cordillera	Andes
+           Sierra	Cordillera Blanca
+            Coordenadas	9°07′00″S 77°36′00″O.</p>
         <a href="https://www.google.com/maps/place/Huascar%C3%A1n/@-9.1223371,-77.643257,14z/data=!4m13!1m7!3m6!1s0x91a94787b67d944d:0x92e763d30fd90096!2sHuascar%C3%A1n!3b1!8m2!3d-9.1223815!4d-77.6063478!3m4!1s0x91a94787b67d944d:0x92e763d30fd90096!8m2!3d-9.1223815!4d-77.6063478?hl=es-419" class="card-link">Aqui HUASCARAN</a>
      </div>
    </div>
@@ -84,7 +104,14 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Continente	América del Sur
+         Ecorregión	Amazonia
+         Océano	Océano Atlántico
+          Cuenca	Amazonas
+         Nacimiento	Cordillera de los Andes
+          Nevado Mismi, Arequipa, Perú
+         Desembocadura	Océano Atlántico
+          Coordenadas	15°31′04″S 71°41′37″O.</p>
         <a href="https://www.google.com/maps/place/Amazonas/@-1.5933834,-72.3625506,5z/data=!3m1!4b1!4m5!3m4!1s0x926eca1645365b6b:0xabfc431d20b2b474!8m2!3d-3.2996216!4d-60.6646509?hl=es-419" class="card-link">Aqui Amazonas</a>
      </div>
    </div>
@@ -99,7 +126,12 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">Localización geográfica
+              Cordillera	Andes
+              Coordenadas	13°52′10″S 71°18′11″O
+              Localización administrativa
+               País	Flag of Peru.svg Perú
+              División	Departamento del Cuzco.</p>
         <a href="https://www.google.com/maps/place/Tour+Monta%C3%B1a+7+Colores/@-13.525171,-72.0112983,14z/data=!4m9!1m2!2m1!1smonta%C3%B1a+7+colores+!3m5!1s0x916dd5ab3a608719:0x85fd3470273174f1!8m2!3d-13.5251719!4d-71.9742234!15sChJtb250YcOxYSA3IGNvbG9yZXNaFCISbW9udGHDsWEgNyBjb2xvcmVzkgENdHJhdmVsX2FnZW5jeZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNdE9YUkljVVozRUFF4AEA?hl=es-419" class="card-link">Aqui Montaña 7 colores</a>
      </div>
    </div>
@@ -112,7 +144,14 @@
                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
             </svg></h5>
         <h6 class="card-subtitle mb-2 text-muted">Te mostraremos Aqui</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <p class="card-text">País	Flag of Peru.svg Perú
+               Coordenadas	14°43′00″S 75°08′00″O
+               Datos generales
+               Tipo	Cultural
+               Criterios	i, iii, iv
+               Identificación	700
+               Región	América Latina y el Caribe
+                Inscripción	1994 (XVIII sesión)    .</p>
         <a href="https://www.google.com/maps/place/L%C3%ADneas+de+Nazca/@-14.7390151,-75.1327355,16.86z/data=!4m5!3m4!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005?hl=es-419" class="card-link">Aqui lineas de nazca</a>
      </div>
    </div>

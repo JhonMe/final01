@@ -35,6 +35,10 @@
         p{
             color: blue;
             display: flex;
+            font-family:Georgia;
+            font-style: oblique;
+            height: 50px;
+            width: 500px;
             
         }
       
@@ -55,11 +59,11 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="img1" src="https://invoyager.com/wp-content/uploads/Machu-Picchu-390x220.jpg" class="d-block w-100" alt="...">
+      <img class="img1" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Machu_Picchu%2C_Peru_%282018%29.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
       <h5>Machu picchu</h5>
         <center>
-          <p>Some representative placeholder content for the first slide.</p>
+          <p>Es una de las 7 maravilas del mundo moderno si visitas este lugar podras ver un paisaje hermoso donde no podras olvidar animate a visitar.</p>
         </center>
       </div>
     </div>
@@ -68,7 +72,7 @@
       <div class="carousel-caption d-none d-md-block">
         <center>
           <h5>Lago titicaca</h5>
-          <p>Some representative placeholder content for the second slide.</p>
+          <p>Este es uno de los luagres donde hay de todo si vas disfrutaras de una playa en el mediterraneo animate .</p>
        </center>
       </div>
     </div>
@@ -77,7 +81,7 @@
       <div class="carousel-caption d-none d-md-block">
         <center>
            <h5>Huascaran</h5>
-           <p>Some representative placeholder content for the third slide.</p>
+           <p>Es uno de los nevados mas grandes del mundo podras disfrutar de la frecura podras patinar en hielo veras los animales mas hermosos que hay en ese lugar</p>
         </center>
       </div>
     </div>
