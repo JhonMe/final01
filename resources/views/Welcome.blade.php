@@ -57,7 +57,21 @@
             .card1{
                 color: green;
             }
-            
+          .letraR{
+            color: green;
+            font-family: Georgia;
+          }
+          .letraI{
+            color: green;
+            font-family: Georgia;
+          }
+          .underline{
+            color: yellow;
+          }
+        .ubicaccion{
+            color: yellow;
+            font-family: Georgia;
+        } 
 
 
         </style>
@@ -67,12 +81,12 @@
         @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
                     @auth
-                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Home</a>
+                        <a href="{{ url('/home') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Principal</a>
                     @else
-                        <a href="{{ route('login') }}" class="text-sm text-gray-700 dark:text-gray-500 underline">Log in</a>
+                        <a href="{{ route('login') }}" class="letraI" class="text-sm  underline">Iniciar</a>
 
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="ml-4 text-sm text-gray-700 dark:text-gray-500 underline">Register</a>
+                            <a href="{{ route('register') }}" class="letraR" class="ml-4 text-sm  underline">Registrarme</a>
                         @endif
                     @endauth
                 </div>
@@ -102,7 +116,7 @@
                             </div>
 
                             <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                <div class="mt-2 text-gray-600 dark:text-gray-400  text-sm">
                                     Aqui le mostraremos las fotos de los luagres que usted y su familia podrian ir a visitar.
                                 </div>
                             </div>
@@ -124,7 +138,7 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">ubicaciones</div>
+                                <div class="ubicaccion"  class="ml-4 text-lg leading-7 font-semibold">ubicaciones</div>
                             </div>
 
                             <div class="ml-12">
